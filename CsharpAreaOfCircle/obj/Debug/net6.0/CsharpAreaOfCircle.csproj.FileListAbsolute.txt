@@ -12,3 +12,4 @@ C:\Users\guill\repos\CsharpAreaOfCircle\CsharpAreaOfCircle\obj\Debug\net6.0\Csha
 C:\Users\guill\repos\CsharpAreaOfCircle\CsharpAreaOfCircle\obj\Debug\net6.0\ref\CsharpAreaOfCircle.dll
 C:\Users\guill\repos\CsharpAreaOfCircle\CsharpAreaOfCircle\obj\Debug\net6.0\CsharpAreaOfCircle.pdb
 C:\Users\guill\repos\CsharpAreaOfCircle\CsharpAreaOfCircle\obj\Debug\net6.0\CsharpAreaOfCircle.genruntimeconfig.cache
+C:\Users\guill\repos\CsharpAreaOfCircle\CsharpAreaOfCircle\obj\Debug\net6.0\CsharpAreaOfCircle.csproj.AssemblyReference.cache
