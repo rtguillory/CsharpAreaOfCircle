@@ -1,0 +1,14 @@
+C:\Users\guill\repos\CsharpAreaOfCircle\CsharpAreaOfCircle\obj\Debug\net6.0\CsharpAreaOfCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\repos\CsharpAreaOfCircle\CsharpAreaOfCircle\obj\Debug\net6.0\CsharpAreaOfCircle.AssemblyInfoInputs.cache
+C:\Users\guill\repos\CsharpAreaOfCircle\CsharpAreaOfCircle\obj\Debug\net6.0\CsharpAreaOfCircle.AssemblyInfo.cs
+C:\Users\guill\repos\CsharpAreaOfCircle\CsharpAreaOfCircle\obj\Debug\net6.0\CsharpAreaOfCircle.csproj.CoreCompileInputs.cache
+C:\Users\guill\repos\CsharpAreaOfCircle\CsharpAreaOfCircle\bin\Debug\net6.0\CsharpAreaOfCircle.exe
+C:\Users\guill\repos\CsharpAreaOfCircle\CsharpAreaOfCircle\bin\Debug\net6.0\CsharpAreaOfCircle.deps.json
+C:\Users\guill\repos\CsharpAreaOfCircle\CsharpAreaOfCircle\bin\Debug\net6.0\CsharpAreaOfCircle.runtimeconfig.json
+C:\Users\guill\repos\CsharpAreaOfCircle\CsharpAreaOfCircle\bin\Debug\net6.0\CsharpAreaOfCircle.dll
+C:\Users\guill\repos\CsharpAreaOfCircle\CsharpAreaOfCircle\bin\Debug\net6.0\ref\CsharpAreaOfCircle.dll
+C:\Users\guill\repos\CsharpAreaOfCircle\CsharpAreaOfCircle\bin\Debug\net6.0\CsharpAreaOfCircle.pdb
+C:\Users\guill\repos\CsharpAreaOfCircle\CsharpAreaOfCircle\obj\Debug\net6.0\CsharpAreaOfCircle.dll
+C:\Users\guill\repos\CsharpAreaOfCircle\CsharpAreaOfCircle\obj\Debug\net6.0\ref\CsharpAreaOfCircle.dll
+C:\Users\guill\repos\CsharpAreaOfCircle\CsharpAreaOfCircle\obj\Debug\net6.0\CsharpAreaOfCircle.pdb
+C:\Users\guill\repos\CsharpAreaOfCircle\CsharpAreaOfCircle\obj\Debug\net6.0\CsharpAreaOfCircle.genruntimeconfig.cache
